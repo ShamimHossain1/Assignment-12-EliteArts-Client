@@ -8,7 +8,7 @@ import PopularInstructors from '../Shared/PopularInstructors/PopularInstructors'
 import useTitle from '../hooks/UseTitle';
 
 const HomeLayouts = () => {
-    useTitle('The Pencil Palette | Home')
+    useTitle('Elite Arts | Home')
     return (
         <div>
             <Navbar></Navbar>

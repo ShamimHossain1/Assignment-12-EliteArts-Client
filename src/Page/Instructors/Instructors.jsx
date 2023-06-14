@@ -4,7 +4,7 @@ import { Slide } from 'react-awesome-reveal';
 import useTitle from '../../hooks/UseTitle';
 
 const Instructors = () => {
-    useTitle('The Pencil Palette | Error')
+    useTitle('Elite Arts | Error')
     const [instructor, , refetch] = useInstructors()
     console.log(instructor)
     return (

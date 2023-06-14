@@ -4,7 +4,7 @@ import useTitle from '../../hooks/UseTitle';
 
 
 export default function ErrorPage() {
-    useTitle('The Pencil Palette | Error')
+    useTitle('Elite Arts | Error')
     const error = useRouteError();
     //console.error(error);
     const navigate = useNavigate()

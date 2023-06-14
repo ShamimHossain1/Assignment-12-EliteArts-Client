@@ -6,7 +6,7 @@ import useTitle from '../../hooks/UseTitle';
 const ClassesPage = () => {
     const [courses] = UseCourse()
     //console.log(courses);
-    useTitle('The Pencil Palette | Class')
+    useTitle('Elite Arts | Class')
     return (
         <div>
             <div className='grid grid-cols-3 mt-20 mb-20'>

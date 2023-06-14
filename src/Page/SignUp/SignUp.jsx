@@ -11,7 +11,7 @@ const SignUp = () => {
     const { register, handleSubmit, reset, formState: { errors } } = useForm();
     const { createUser, updateUserData } = useContext(AuthContext);
     const navigate = useNavigate();
-    useTitle('The Pencil Palette | SighUp')
+    useTitle('Elite Arts | SighUp')
 
     const onSubmit = data => {
         console.log(data);

@@ -11,7 +11,7 @@ const Dashboard = () => {
     const [cart] = useCart()
     const { user } = useAuth()
     console.log(user.email)
-    useTitle('The Pencil Palette | DashBoard')
+    useTitle('Elite Arts | DashBoard')
 
     const [isInstructor, setIsInstructor] = useState(false);
     const email = user.email // Replace with the desired email

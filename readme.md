@@ -1,8 +1,8 @@
 
-* Firebase live: https://ass-12-d2ded.web.app/
-* Clint Github: https://github.com/programming-hero-web-course1/b712-summer-camp-client-side-FAHIMXGG
-* API: https://ass-12-server-rose.vercel.app
-* API Github: https://github.com/programming-hero-web-course1/b7a12-summer-camp-server_side-FAHIMXGG
+* Firebase live: https://648a03c0a496470d7fae0a79--glistening-gecko-c13d56.netlify.app/home
+* Clint Github: https://github.com/programming-hero-web-course1/b712-summer-camp-client-side-ShamimHossain1
+
+* API Github: https://github.com/programming-hero-web-course1/b7a12-summer-camp-server_side-ShamimHossain1
 * API from: Varcel 
 * Responsive: desktop AND Mobile
 * Projects Details:
@@ -22,7 +22,7 @@
 8. icon: React Icon
 9. footer
 10. Active Link
-12. PlugIn: React-awesome-reveal
+11. PlugIn: React-awesome-reveal
 https://react-awesome-reveal.morello.dev/docs/getting-started
 
 Additional features: 
