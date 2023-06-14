@@ -1,5 +1,5 @@
 
-* Firebase live: https://648a03c0a496470d7fae0a79--glistening-gecko-c13d56.netlify.app/home
+* Firebase live: https://aquamarine-vacherin-e48715.netlify.app/home
 * Clint Github: https://github.com/programming-hero-web-course1/b712-summer-camp-client-side-ShamimHossain1
 
 * API Github: https://github.com/programming-hero-web-course1/b7a12-summer-camp-server_side-ShamimHossain1
@@ -24,6 +24,7 @@
 10. Active Link
 11. PlugIn: React-awesome-reveal
 https://react-awesome-reveal.morello.dev/docs/getting-started
+12. Deployed to Netlify
 
 Additional features: 
 tanstack query, Axios, Environment variables, JWT, 404
