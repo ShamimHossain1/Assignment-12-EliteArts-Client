@@ -1,28 +1,32 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App'
 import './index.css'
+
 import {
-  createBrowserRouter,
+
   RouterProvider,
 } from "react-router-dom";
-import Error from './Components/404 Page/Error';
+import { router } from './Routes/Routes';
+import AuthProvider from './Provider/AuthProvider';
 
+import {
+  useQuery,
+  useMutation,
+  useQueryClient,
+  QueryClient,
+  QueryClientProvider,
+} from '@tanstack/react-query'
 
-const router = createBrowserRouter([
-  {
-    path: "/",
-    element: <div>Hello world!</div>,
-  },
-  {
-    path: "*",
-    element: <Error></Error>,
-  },
-]);
-
+const queryClient = new QueryClient()
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-   <RouterProvider router={router} />
+    <div className='max-w-screen-2xl mx-auto'>
+      <AuthProvider>
+        <QueryClientProvider client={queryClient}>
+          <RouterProvider router={router} />
+        </QueryClientProvider>
+      </AuthProvider>
+    </div>
   </React.StrictMode>,
 )
