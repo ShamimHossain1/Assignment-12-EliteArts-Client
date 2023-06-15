@@ -1,5 +1,5 @@
 
-* Firebase live: https://aquamarine-vacherin-e48715.netlify.app/home
+* Netlify live: https://aquamarine-vacherin-e48715.netlify.app/home
 * Clint Github: https://github.com/programming-hero-web-course1/b712-summer-camp-client-side-ShamimHossain1
 
 * API Github: https://github.com/programming-hero-web-course1/b7a12-summer-camp-server_side-ShamimHossain1
