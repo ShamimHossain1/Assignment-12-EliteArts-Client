@@ -1,7 +1,7 @@
 
-* Netlify live: https://aquamarine-vacherin-e48715.netlify.app/home
-* Clint Github: https://github.com/programming-hero-web-course1/b712-summer-camp-client-side-ShamimHossain1
-* API Github: https://github.com/programming-hero-web-course1/b7a12-summer-camp-server_side-ShamimHossain1
+* Netlify live: https://stupendous-duckanoo-afaec0.netlify.app/home
+* Clint Github: https://github.com/ShamimHossain1/Assignment-12-EliteArts-Client
+* Server Github: https://github.com/ShamimHossain1/Assignment-12-EliteArts-Server
 * API from: Varcel 
 * Responsive: desktop AND Mobile
 * Projects Details:
